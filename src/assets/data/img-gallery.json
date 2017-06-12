@@ -1,0 +1,91 @@
+{
+	"message": "Recent photo list fetched successfully",
+	"data": {
+		"page": 1,
+		"pages": 50,
+		"perpage": 20,
+		"total": 1000,
+		"images": [
+			{
+				"id": 34387769964,
+				"url": "https://farm5.staticflickr.com/4285/34387769964_7392625070.jpg"
+			},
+			{
+				"id": 34387770224,
+				"url": "https://farm5.staticflickr.com/4286/34387770224_77a83226eb.jpg"
+			},
+			{
+				"id": 34387770534,
+				"url": "https://farm5.staticflickr.com/4235/34387770534_ed6d20e00f.jpg"
+			},
+			{
+				"id": 34387770594,
+				"url": "https://farm5.staticflickr.com/4238/34387770594_c50c64e882.jpg"
+			},
+			{
+				"id": 34844695590,
+				"url": "https://farm5.staticflickr.com/4240/34844695590_5da1695f4f.jpg"
+			},
+			{
+				"id": 34844699620,
+				"url": "https://farm5.staticflickr.com/4245/34844699620_2292c90ec4.jpg"
+			},
+			{
+				"id": 34844699900,
+				"url": "https://farm5.staticflickr.com/4201/34844699900_7e87d76d43.jpg"
+			},
+			{
+				"id": 34844700540,
+				"url": "https://farm5.staticflickr.com/4239/34844700540_bb71ffd11e.jpg"
+			},
+			{
+				"id": 34844701300,
+				"url": "https://farm5.staticflickr.com/4238/34844701300_101603b7e1.jpg"
+			},
+			{
+				"id": 35065777792,
+				"url": "https://farm5.staticflickr.com/4290/35065777792_23aaf08247.jpg"
+			},
+			{
+				"id": 35065778332,
+				"url": "https://farm5.staticflickr.com/4282/35065778332_fd7dc97f14.jpg"
+			},
+			{
+				"id": 35065781882,
+				"url": "https://farm5.staticflickr.com/4275/35065781882_009ac7a9f4.jpg"
+			},
+			{
+				"id": 35101722061,
+				"url": "https://farm5.staticflickr.com/4207/35101722061_0d778ef9c1.jpg"
+			},
+			{
+				"id": 35101722211,
+				"url": "https://farm5.staticflickr.com/4200/35101722211_2e581c849a.jpg"
+			},
+			{
+				"id": 35231423345,
+				"url": "https://farm5.staticflickr.com/4239/35231423345_0d85189fbd.jpg"
+			},
+			{
+				"id": 35231423865,
+				"url": "https://farm5.staticflickr.com/4234/35231423865_74c219d6d9.jpg"
+			},
+			{
+				"id": 35231425035,
+				"url": "https://farm5.staticflickr.com/4201/35231425035_13c6151dfd.jpg"
+			},
+			{
+				"id": 35231425945,
+				"url": "https://farm5.staticflickr.com/4290/35231425945_622eab2a7a.jpg"
+			},
+			{
+				"id": 35231426205,
+				"url": "https://farm5.staticflickr.com/4207/35231426205_cf0b7ae1ab.jpg"
+			},
+			{
+				"id": 35231426525,
+				"url": "https://farm5.staticflickr.com/4245/35231426525_4a08eaa3d0.jpg"
+			}
+		]
+	}
+}

@@ -1,0 +1,7 @@
+<ul id="thumbnailsList" *ngIf="images">
+  <li *ngFor="let image of images" >
+<a routerLink="/{{image.id}}">    <img src="{{image.url}}" class="tn"
+         width="191" height="146">
+</a>
+  </li>
+</ul>

@@ -1,0 +1,15 @@
+<div class="row" *ngIf="image">
+
+<div class="col-md-5">
+    <ul class="list-group">
+        <li class="list-group-item"><h3>All Sizes</h3></li>
+        <li class="list-group-item" *ngFor="let size of image.sizes">
+            <a (click)="showSelectedImage(size.source)">{{size.label}}</a>
+            <a (click)="showSelectedImage(size.source)">{{size.width}}x{{size.height}}</a>
+        </li>
+    </ul>
+</div>
+    <div class="col-md-12">
+        <img src="{{selectedImage}}" class="img-rounded">
+    </div>
+</div>
